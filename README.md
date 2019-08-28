@@ -11,7 +11,7 @@ As with your assignments, please edit the LICENSE file (replace the [year] [full
 
 As always, Fork this repository, and then Clone it to your local computer.
 
-Before you begin, you will need to install the graphics library we will be using for the first half of the semester. Open the Terminal (either by clicking on the magnifying glass and searching for CMD, or open the Terminal in VS Code) and type the following:
+Before you begin, you will need to install Python Arcade, the graphics library we will be using for the first half of the semester. Open the Terminal (either by clicking on the magnifying glass and searching for CMD, or open the Terminal in VS Code) and type the following:
 
 *pip install arcade --user*
 
@@ -36,6 +36,8 @@ When you have completed the exercise, commit your changes and push them back to 
 *Extra credit:* 
 
 main5.py is much more complicated, but it allows the smiley face to track mouse movements. Add a comment to every line describing what is happening. Save those changes.
+
+If you want to further explore Python Arcade, the API and some sample projects are available at [arcade.academy](http://arcade.academy).
 
 ---
 
