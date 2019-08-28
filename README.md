@@ -22,6 +22,7 @@ When arcade has been installed, we can get to work:
 First, open main1.py. I am drawing several shapes that, if properly assembled, can form a smiley face. Right now, the shapes are all being drawn at (0,0), which is the bottom-left corner of the window. See if you can use those shapes to draw a smiley face in the center of the window. The small gray dots are catch lights for the eyes.
 
 The end result should look something like this:
+
 ![Smile!](https://github.com/BL-MSCH-C220-F19/E01b-Smiles/blob/master/smile.png)
 
 When you have placed the shapes correctly, save the file and open main2.py. The only change I have made is to define coordinates (face_x and face_y) that represent the center of the circle. Figure out offsets for the other shapes in relation to face_x and face_y. Use face_x and face_y to move all the shapes to the middle of the window. Save your changes.
