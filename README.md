@@ -31,9 +31,11 @@ Next, in main3.py, I have created several new coordinates to represent each of t
 
 Open main4.py. You will now be drawing many faces in the window. Editing lines 20 through 24, draw a grid of overlapping faces. Now, play with the values on lines 16 and 18. What happens when you adjust those numbers? Save your changes.
 
-*Extra credit* main5.py is much more complicated, but it allows the smiley face to track mouse movements. Add a comment to every line describing what is happening. Save those changes.
-
 When you have completed the exercise, commit your changes and push them back to GitHub. Turn in the URL of your repository on canvas.
+
+*Extra credit:* 
+
+main5.py is much more complicated, but it allows the smiley face to track mouse movements. Add a comment to every line describing what is happening. Save those changes.
 
 ---
 
